@@ -27,5 +27,5 @@ do_wyszukania = input()
 print("Nazwa pliku w którym szukasz:")
 nazwa_pliku = input()
 
-with open(nazwa_pliku, "r") as plik:
-    wyszukiwanie_slow(do_wyszukania, plik.readlines())
+with open(nazwa_pliku,"r") as plik:
+    wyszukiwanie_sonetow(do_wyszukania, plik.readlines())
