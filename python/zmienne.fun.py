@@ -25,4 +25,3 @@ sprawdz_typ(napis)
 
 napis = str(zmienna) + napis
 sprawdz_typ(zmienna)
-
